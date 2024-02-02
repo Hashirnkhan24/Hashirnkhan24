@@ -1,5 +1,3 @@
-<div align="center">
-
 ## Hey 👋, This is Khan Hashir Najib
 [![Gmail Badge](https://img.shields.io/badge/-khn24202@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:khn24202@gmail.com)](mailto:khn24202@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-hashirkhan24-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hashirkhan24/)](https://www.linkedin.com/in/hashirkhan24/) [![Github Badge](https://img.shields.io/badge/-Hashirnkhan24-grey?style=flat&logo=github&logoColor=white&link=https://github.com/Hashirnkhan24/)](https://www.github.com/Hashirnkhan24/) [![Twitter Badge](https://img.shields.io/badge/-HashirKhan24-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/HashirKhan24/)](https://www.twitter.com/HashirKhan24/) <p align='left'>Hey there! 👋 I'm Hashir, a computer engineer and budding full-stack developer specializing in the MERN stack. I've also dabbled in PostgreSQL and MySQL.
@@ -20,4 +18,3 @@ I am passionate about development and it drives me to constantly explore new tec
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hashirnkhan24&icon=0&color=0)](https://visitcount.itsvg.in)
-</div>
